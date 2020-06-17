@@ -13,4 +13,4 @@ When refreshing the page or going back to it: The last city searched should be d
 
 Github repo: https://github.com/sdratch/HW6-Weather-Dashboard
 Deployed Site: https://sdratch.github.io/HW6-Weather-Dashboard/
-image: ![alt text](./assets/img.PNG)
+image: ![alt text](./assets/Hw6.PNG)
